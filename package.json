@@ -1,5 +1,5 @@
 {
-    "name": "KILL BOT",
+    "name": "GHOST BOT",
     "version": "2.0.7",
     "description": "Simple WhatsApp Bot Multi Device",
     "main": "index.js",
@@ -18,20 +18,20 @@
         "eslint": "eslint .",
         "eslintfix": "eslint --fix ."
     },
-    "homepage": "https://github.com/Adrianmaze/Kill",
+    "homepage": "https://github.com/alexbotsx/Oso",
     "author": {
-        "name": "Kill"
+        "name": "Oso"
     },
     "collaborators": {
-        "col1": "KILLBOT",
+        "col1": "GHOST BOT",
         "col2": "@Anuar"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Adrianmaze/Kill.git"
+        "url": "git+https://github.com/alexbotsx/Oso.git"
     },
     "bugs": {
-        "url": "https://github.com/Adrianmaze/Kill/issues"
+        "url": "https://github.com/alexbotsx/Oso/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

@@ -51,7 +51,7 @@ function start(file) {
     p.on('message', data => {
         switch (data) {
             case 'reset':
-                p.process.kill()
+                p.process.Oso()
                 isRunning = false
                 start.apply(this, arguments)
                 break
@@ -82,4 +82,4 @@ process.on('warning', (warning) => {
         console.warn(warning.stack)
     }
 })
-start('KILLBOT.js')
+start('GHOST BOT.js')
